@@ -1,0 +1,2 @@
+biblioteca pandas
+(tabula) e um pacote do python que transforma pdf em pandas para a biblioteca conseguir ler, se for o caso de usar no banco de dados.
